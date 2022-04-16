@@ -5,3 +5,5 @@
 - eslint
 - tailwindcss
 - heroicons
+- prettier
+- husky
